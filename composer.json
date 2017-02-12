@@ -6,6 +6,10 @@
         {
             "name": "Damian Crisafulli",
             "email": "damian.crisafulli@troyweb.com"
+        },
+		{
+            "name": "Jason (schreck84) Schreckengost",
+            "email": "dev@schreck84.com"
         }
     ],
     "minimum-stability": "dev",
